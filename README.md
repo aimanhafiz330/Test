@@ -1,7 +1,5 @@
-1pip install gitpython
-2pip install colorama
-3pip install progressbar2
-4https://github.com/aimanhafiz330/Test.git
-5cd aimanhafiz330
-6pip install -r requirements.txt
-7python main.py
+1.pkg install git
+2.git clone https://github.com/aimanhafiz330/Test.git
+3.cd aimanhafiz330
+4.install -r requirements.txt
+5.python main.py
